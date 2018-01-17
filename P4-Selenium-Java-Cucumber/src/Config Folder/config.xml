@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<Environment>qa</Environment>
+	<Browser>FireFox</Browser>
+	<jsonfile>flightdata.json</jsonfile>
+	<ObjectRepo>flightrepo.xml</ObjectRepo>
+	<qa1URL>http://newtours.demoaut.com/</qa1URL>
+	<qa2URL></qa2URL>
+</config>
